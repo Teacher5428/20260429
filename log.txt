@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "C:\Users\student\PycharmProjects\20260429\20260429-test.py", line 3, in <module>
+    x=10/0
+      ~~^~
+ZeroDivisionError: division by zero
